@@ -73,3 +73,6 @@ Datasets used in practical exercises and demonstrations.
 -   [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-r)
 -   [Udemy](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/?couponCode=ST14MT32124)
 -   [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+## License
+This work © 2024 by Gentian Gashi is licensed under [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
