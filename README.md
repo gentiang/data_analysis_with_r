@@ -1,5 +1,5 @@
 # Data Analysis with R
-This repository will host all materials related to the course on data analysis with R
+This repository will host all materials related to the course on data analysis with R. Find the neccessary course materials at the course website [Data Analysis with R](https://gentiang.github.io/data_analysis_with_r/) or here below.
 
 ## Introduction
 
