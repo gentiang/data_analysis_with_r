@@ -21,11 +21,11 @@ The following steps show you how to download and install R and RStudio on your p
 
 #### Installing R
 
-Download and install the programming language R from [CRAN](https://cran.r-project.org/ "Download R"){target="_blank"}. If you have already installed R previously, make sure it is updated.
+Download and install the programming language R from [CRAN](https://cran.r-project.org/ "Download R"). If you have already installed R previously, make sure it is updated.
 
 #### Installing RStudio
 
-Download and install the graphical user interface RStudio from [Posit](https://posit.co/download/rstudio-desktop/ "Download RStudio"){target="_blank"}.
+Download and install the graphical user interface RStudio from [Posit](https://posit.co/download/rstudio-desktop/ "Download RStudio").
 
 ## Presentations
 
@@ -43,33 +43,33 @@ Datasets used in practical exercises and demonstrations.
 
 1.  **RStudio Cheatsheets**:
 
--   [RStudio's cheatsheets](https://posit.co/resources/cheatsheets/){target="_blank"} offer quick references and tips for using R, RStudio, and several packages effectively.
+-   [RStudio's cheatsheets](https://posit.co/resources/cheatsheets/) offer quick references and tips for using R, RStudio, and several packages effectively.
 
 2.  **Online Learning Sources**:
 
--   [Posit](https://www.youtube.com/@PositPBC){target="_blank"}
--   [Stack Overflow](https://stackoverflow.com/){target="_blank"}
--   [From Data to Viz](https://www.data-to-viz.com/){target="_blank"}
--   [R Graph Gallery](https://r-graph-gallery.com/){target="_blank"}
--   [1 dataset 100 visualizations](https://100.datavizproject.com/){target="_blank"}
--   [ggplot2 extenstions](https://exts.ggplot2.tidyverse.org/gallery/){target="_blank"}
--   [tidyverse](https://www.tidyverse.org/packages/){target="_blank"}
--   [#tidytuesday](https://github.com/rfordatascience/tidytuesday){target="_blank"}
--   [Cedric Scherer](https://www.cedricscherer.com/top/dataviz/){target="_blank"}
--   [Albert Rapp](https://www.youtube.com/@rappa753/videos){target="_blank"}\
+-   [Posit](https://www.youtube.com/@PositPBC)
+-   [Stack Overflow](https://stackoverflow.com/)
+-   [From Data to Viz](https://www.data-to-viz.com/)
+-   [R Graph Gallery](https://r-graph-gallery.com/)
+-   [1 dataset 100 visualizations](https://100.datavizproject.com/)
+-   [ggplot2 extenstions](https://exts.ggplot2.tidyverse.org/gallery/)
+-   [tidyverse](https://www.tidyverse.org/packages/)
+-   [#tidytuesday](https://github.com/rfordatascience/tidytuesday)
+-   [Cedric Scherer](https://www.cedricscherer.com/top/dataviz/)
+-   [Albert Rapp](https://www.youtube.com/@rappa753/videos)
 
 3.  **Books**:
 
--   "[R for Data Science (2e)](https://r4ds.hadley.nz/){target="_blank"}" by Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
--   "[R Graphics Cookbook, 2nd edition](https://r-graphics.org/){target="_blank"}" by Winston Chang
--   "[ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/){target="_blank"}" by Handley Wickham
--   "[An Introduction to Statistical Learning with applications in R](https://www.statlearning.com/){target="_blank"}" by Gareth James et al.
--   "[Storytelling with Data](https://www.storytellingwithdata.com/books){target="_blank"}" by Cole Nussbaumer Knaflic
--   "[Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6){target="_blank"}" by Christian Kleiber and Achim Zeileis
--   "[Forecasting: Principles and Practice, 3rd edition](https://otexts.com/fpp3/){target="_blank"}" by Rob J Hyndman and George Athanasopoulos
+-   "[R for Data Science (2e)](https://r4ds.hadley.nz/)" by Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
+-   "[R Graphics Cookbook, 2nd edition](https://r-graphics.org/)" by Winston Chang
+-   "[ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/)" by Handley Wickham
+-   "[An Introduction to Statistical Learning with applications in R](https://www.statlearning.com/)" by Gareth James et al.
+-   "[Storytelling with Data](https://www.storytellingwithdata.com/books)" by Cole Nussbaumer Knaflic
+-   "[Applied Econometrics with R](https://link.springer.com/book/10.1007/978-0-387-77318-6)" by Christian Kleiber and Achim Zeileis
+-   "[Forecasting: Principles and Practice, 3rd edition](https://otexts.com/fpp3/)" by Rob J Hyndman and George Athanasopoulos
 
 4.  **Online Tutorials**:
 
--   [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-r){target="_blank"}
--   [Udemy](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/?couponCode=ST14MT32124){target="_blank"}
--   [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics){target="_blank"}
+-   [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-r)
+-   [Udemy](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/?couponCode=ST14MT32124)
+-   [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
