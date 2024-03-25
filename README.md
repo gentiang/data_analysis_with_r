@@ -44,6 +44,7 @@ Datasets used in practical exercises and demonstrations.
 1.  **RStudio Cheatsheets**:
 
 -   [RStudio's cheatsheets](https://posit.co/resources/cheatsheets/) offer quick references and tips for using R, RStudio, and several packages effectively.
+-   [Additional cheatsheets](https://github.com/rstudio/cheatsheets/tree/main)
 
 2.  **Online Learning Sources**:
 
