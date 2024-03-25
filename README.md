@@ -57,6 +57,7 @@ Datasets used in practical exercises and demonstrations.
 -   [#tidytuesday](https://github.com/rfordatascience/tidytuesday)
 -   [Cedric Scherer](https://www.cedricscherer.com/top/dataviz/)
 -   [Albert Rapp](https://www.youtube.com/@rappa753/videos)
+-   [R for the Rest of Us](https://www.youtube.com/@rfortherestofus)
 
 3.  **Books**:
 
